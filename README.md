@@ -6,7 +6,7 @@ A Student of Universiti Teknologi Malaysia (UTM)
 
 I am a first-year Computer Network and Security (SECRH) student at Universiti Teknologi Malaysia (UTM)
 
-* 🌍  I'm based in Johor Bahru, Johor
+* 🌍  I'm based in Batu Pahat, Johor
 * ✉️  You can contact me at [shan060306@gmail.com](mailto:shan060306@gmail.com)
 * 🧠  I'm currently learning C++ programming and cybersecurity techniques
 
